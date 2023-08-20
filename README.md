@@ -1,17 +1,22 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQEcYy6RMstC9g/article-inline_image-shrink_400_744/0/1629105193497?e=1697673600&v=beta&t=KCPTZMJd-HsY5joJicTmo1bk8tMscjGSyeRjm2skKdM)]
 <h1 align="center">Hi 👋, I'm Ujjawal Shrivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjawalsh99&label=Profile%20views&color=0e75b6&style=flat" alt="ujjawalsh99" /> </p>
 
-- 🌱 I’m currently learning **Angular, Node**
+- 🔭 I’m currently working at **Infosys Limited**
+  
+- 🌱 I’m currently learning **Angular and Node**
 
 - 💬 Ask me about **MEAN**
 
 - 📫 How to reach me **ujjawalsh99@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- 🤝 I’m looking for a new role **Software Engineer**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dGCYGxGs59k4mSnJAwgVLy5MKLEo6WuW/view](https://drive.google.com/file/d/1dGCYGxGs59k4mSnJAwgVLy5MKLEo6WuW/view)
+
+- ⚡ Fun fact **I love creating content**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
