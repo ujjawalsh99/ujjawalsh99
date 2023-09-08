@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Building Frontend Components and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced NodeJs and NgRx.<br><br>💬 **Ask me about:**  <br>Angular, JavaScript, Node.js, Database, Web Scrapping and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating code and exploring new things.
+🔭 **I’m currently working on:**  <br>Building Frontend Components and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced NodeJs and NgRx.<br><br>📄 **Know about my experiences:** [https://drive.google.com/file/d/1dGCYGxGs59k4mSnJAwgVLy5MKLEo6WuW/view](https://drive.google.com/file/d/1dGCYGxGs59k4mSnJAwgVLy5MKLEo6WuW/view)<br><br>💬 **Ask me about:**  <br>Angular, JavaScript, Node.js, Database, Web Scrapping and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating code and exploring new things.
 
 
 ## 🌐 Socials:
@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ujjawalsh99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![Visitor Count](https://visitcount.itsvg.in/api?id=ujjawalsh99&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=ujjawalsh99&label=Profile%20Views&color=9&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
